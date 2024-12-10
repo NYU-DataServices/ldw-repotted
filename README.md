@@ -9,7 +9,7 @@
 
 **"new pot" urls:**
 
--
--
+- https://nyu-dataservices.github.io/ldw-repotted/dh-data-2018/
+- https://nyu-dataservices.github.io/ldw-repotted/research-day-2019/
 
 **date repotted:** 12/10/2024
